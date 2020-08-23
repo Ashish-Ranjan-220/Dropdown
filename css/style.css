@@ -1,0 +1,21 @@
+.container{
+        align-items: center;
+        justify-content: center; 
+      }
+      #tabl{
+        display:none;
+      }
+      .tab{
+        margin-top: 30px;
+        padding-left: 60px;
+      }
+      .select{
+        padding-top: 30px;
+        text-align: center;
+        font-size: 40px;
+      }
+.down a{
+    margin-left: 600px;
+    text-align:center;
+    font-size: 40px;
+}
